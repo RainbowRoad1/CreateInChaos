@@ -1,0 +1,76 @@
+﻿main_title\Create in chaos
+main_start\Start
+main_more\More
+main_quit\Quit
+all_back\Back
+all_reset\Reset
+all_cancel\Cancel
+all_ok\OK
+all_null\Null
+game_over\Game over
+set_basic\Basic
+set_gameplay\Gameplay
+set_input\Input
+info_record\Record
+info_about\About
+set_basic_sound\Sound
+set_basic_sound_volume\Sound volume
+set_basic_BGM_volume\BGM volume
+set_basic_video\Video
+set_basic_frame\FPS
+set_basic_screen\Resolution
+set_basic_fill\Fill screen
+set_basic_other\Other
+set_basic_language\Language
+set_game_debug_info\Display status infomation
+set_game_vir_key\Display virtual key
+set_game_key_size\Virtual key size
+set_game_key_opacity\Virtual key opacity
+set_game_menu_bg\Menu background animation
+set_game_use_dyna\Update dynamic textures
+set_game_use_sky\Update sky background
+set_game_use_glitch\Glitch Effect
+set_input_title_name\Name
+set_input_title_key\Key
+set_input_title_stop\Stop
+set_input_key_left\Left
+set_input_key_right\Right
+set_input_key_down\Down
+set_input_key_up\Fast drop
+set_input_key_funA\Reverse Rotate
+set_input_key_funB\Rotate
+set_input_delay\Input delay
+set_input_mode\Virtual key mapping
+record_game_time\Total game time
+record_game_count\Total game count
+record_top_mode\Mode
+record_top_score\Max score
+record_top_time\Max time
+record_top_count\Game count
+record_history\History
+record_history_score\Score
+record_history_time\Time
+record_history_date\Date
+game_mode0\Null
+game_mode1\Normal
+game_mode2\Micro
+game_mode3\Wide
+game_mode4\Redstone
+game_mode5\Custom
+game_mode1_info\Sandbox size: 10x20
+game_mode2_info\Sandbox size: 8x16
+game_mode3_info\Sandbox size: 12x24
+game_mode4_info\Redstone as the theme
+game_mode5_info\Provides more options, but does not record archives
+game_save_info\Last saved
+pop_overwrite_save\Overwrite the archive to start a new game?
+pop_no_useblock\Use at least one block.
+pop_high_aspect\Aspect ratio is too high, OK then set to 1.
+custom_basic\Basic
+custom_use\Use
+custom_disable\Disable
+custom_width\Width
+custom_height\Height
+custom_speed\Fall Speed
+custom_day\Alternating day and night
+custom_test\Test function
